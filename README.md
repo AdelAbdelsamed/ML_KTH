@@ -1,1 +1,1 @@
-# MachineLearning_KTH
+# ML_KTH
